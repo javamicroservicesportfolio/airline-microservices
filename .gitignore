@@ -1,3 +1,4 @@
 /volumes/
 /.idea/
 /services/location-service/.env
+/common-lib/target/

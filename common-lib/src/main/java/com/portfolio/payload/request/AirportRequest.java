@@ -2,7 +2,6 @@ package com.portfolio.payload.request;
 
 import com.portfolio.embeddable.Address;
 import com.portfolio.embeddable.GeoCode;
-import com.portfolio.payload.response.CityResponse;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
