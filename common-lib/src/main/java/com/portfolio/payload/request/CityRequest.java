@@ -28,6 +28,9 @@ public class CityRequest {
     @Size(max = 10)
     private String countryCode;
 
+    @Size
+    private String regionCode;
+
     @Size(max = 10)
     private String timeZoneOffset;
 }
