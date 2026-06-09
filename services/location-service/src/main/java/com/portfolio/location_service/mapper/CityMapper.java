@@ -28,6 +28,8 @@ public class CityMapper {
         return CityResponse.builder()
                 .id(city.getId())
                 .name(city.getName())
+
+
                 .cityCode(city.getCityCode())
                 .countryName(city.getCountryName())
                 .countryCode(city.getCountryCode())
@@ -36,5 +38,5 @@ public class CityMapper {
                 .build();
     }
 
-    
+
 }
