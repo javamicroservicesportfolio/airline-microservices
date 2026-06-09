@@ -1,0 +1,3 @@
+[submodule "services/location-service"]
+	path = services/location-service
+	url = https://github.com/javamicroservicesportfolio/location-service.git
