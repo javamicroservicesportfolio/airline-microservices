@@ -1,3 +1,6 @@
 [submodule "services/location-service"]
 	path = services/location-service
 	url = https://github.com/javamicroservicesportfolio/location-service.git
+[submodule "services/user-service"]
+	path = services/user-service
+	url = https://github.com/javamicroservicesportfolio/user-service.git
