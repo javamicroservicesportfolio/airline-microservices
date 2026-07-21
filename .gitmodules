@@ -4,3 +4,6 @@
 [submodule "services/user-service"]
 	path = services/user-service
 	url = https://github.com/javamicroservicesportfolio/user-service.git
+[submodule "services/airline-core-service"]
+	path = services/airline-core-service
+	url = https://github.com/javamicroservicesportfolio/airline-core-microservice.git
