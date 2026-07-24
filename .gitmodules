@@ -7,3 +7,6 @@
 [submodule "services/airline-core-service"]
 	path = services/airline-core-service
 	url = https://github.com/javamicroservicesportfolio/airline-core-microservice.git
+[submodule "services/flight-ops-service"]
+	path = services/flight-ops-service
+	url = https://github.com/javamicroservicesportfolio/flight-ops-service.git
