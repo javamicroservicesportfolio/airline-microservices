@@ -1,5 +1,6 @@
 package com.portfolio.payload.response;
 
+import com.portfolio.enums.ScheduleStatus;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
@@ -31,5 +32,6 @@ public class FlightScheduleResponse {
     private List<DayOfWeek> operatingDays;
     private Boolean isActive;
 
-
+    private ScheduleStatus status;
+    private String failureReason;
 }

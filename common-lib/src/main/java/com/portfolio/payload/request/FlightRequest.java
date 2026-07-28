@@ -18,9 +18,6 @@ public class FlightRequest {
     @Size(max = 10, message = "Flight number must not exceed 10 characters")
     private String flightNumber;
 
-    @NotNull(message = "Airline ID is required")
-    private Long airlineId;
-
     @NotNull(message = "Aircraft ID is required")
     private Long aircraftId;
 
