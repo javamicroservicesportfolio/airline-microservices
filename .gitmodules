@@ -10,3 +10,6 @@
 [submodule "services/flight-ops-service"]
 	path = services/flight-ops-service
 	url = https://github.com/javamicroservicesportfolio/flight-ops-service.git
+[submodule "services/pricing-service"]
+	path = services/pricing-service
+	url = https://github.com/javamicroservicesportfolio/pricing-service.git
