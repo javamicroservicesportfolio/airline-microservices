@@ -13,3 +13,6 @@
 [submodule "services/pricing-service"]
 	path = services/pricing-service
 	url = https://github.com/javamicroservicesportfolio/pricing-service.git
+[submodule "services/seat-service"]
+	path = services/seat-service
+	url = https://github.com/javamicroservicesportfolio/seat-service.git
