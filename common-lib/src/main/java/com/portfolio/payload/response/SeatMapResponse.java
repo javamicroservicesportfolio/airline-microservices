@@ -18,8 +18,6 @@ public class SeatMapResponse {
     private Integer totalRows;
 
     private Long airlineId;
-    private String airlineName;
-    private String airlineCode;
 
     private Long cabinClassId;
     private String cabinClassName;
