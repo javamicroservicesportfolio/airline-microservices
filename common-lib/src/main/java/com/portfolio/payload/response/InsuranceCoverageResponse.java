@@ -11,4 +11,15 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class InsuranceCoverageResponse {
     private Long id;
+    private Long ancillaryId;
+    private String ancillaryName;
+    private String coverageType;
+    private String name;
+    private String description;
+    private Double coverageAmount;
+    private Boolean isFlat;
+    private String claimCondition;
+    private String emergencyContact;
+    private Integer displayOrder;
+    private Boolean active;
 }
