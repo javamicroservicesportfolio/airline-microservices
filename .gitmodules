@@ -16,3 +16,6 @@
 [submodule "services/seat-service"]
 	path = services/seat-service
 	url = https://github.com/javamicroservicesportfolio/seat-service.git
+[submodule "services/ancillary-service"]
+	path = services/ancillary-service
+	url = https://github.com/javamicroservicesportfolio/ancillary-service.git
